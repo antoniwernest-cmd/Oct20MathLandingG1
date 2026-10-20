@@ -1,0 +1,45 @@
+Existing math picture collection reused for Learning Garden picture help.
+Pictures are examples; the student uses the numbers and objects in their activity.
+No new raster pictures generated.
+
+number-cards.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\illustrations\number-cards.webp
+
+counting-buttons.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\sections\counting-buttons.webp
+
+addition.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\illustrations\addition.webp
+
+subtraction.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\illustrations\subtraction.webp
+
+counting-cubes.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\illustrations\counting-cubes.webp
+
+count-by-five-path.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\sections\count-by-five-path.webp
+
+hundreds-chart.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\hundreds-chart.webp
+
+pattern-excite-01.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\illustrations\pattern-excite-01.webp
+
+pattern-excite-02.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-18\i-x20\outputs\Math-Landing\dist\assets\sections\pattern-excite-02.webp
+
+sorting-objects.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\sorting-objects.webp
+
+sorting-autumn-leaves.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\sorting-autumn-leaves.webp
+
+pictograph.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\pictograph.webp
+
+pet-pictograph.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\pet-pictograph.webp
+
+cats-dogs-bar-graph.webp
+  Reused unchanged from: C:\Users\anton\Documents\Codex\2026-10-17\sho\outputs\Rocky-and-Lunas-Math-Play\assets\illustrations\cats-dogs-bar-graph.webp

@@ -1,0 +1,29 @@
+ice-cream: A girl's ice cream falls. She feels sad.
+
+wet-drawing: A boy spills water on his picture. He feels sad.
+
+broken-truck: A wheel comes off the toy truck. The girl feels sad.
+
+fallen-blocks: His block tower falls. The boy feels sad.
+
+lost-balloon: Her balloon flies away. The girl feels sad.
+
+melted-popsicle: His ice pop melts. The boy feels sad.
+
+torn-teddy: His teddy bear is torn. The boy feels sad.
+
+broken-cookie: Her cookie breaks. The girl feels sad.
+
+rainy-picnic: It rains on picnic day. The boy feels sad.
+
+toy-boat: Her toy boat tips over. The girl feels sad.
+
+missing-puzzle: A puzzle piece is missing. The girl feels sad.
+
+snapped-crayon: His red crayon breaks. The boy feels sad.
+
+sandcastle: Water washes his sandcastle. The boy feels sad.
+
+crumpled-plane: Her paper plane is crumpled. The girl feels sad.
+
+tipped-flowerpot: His flowerpot tips over. The boy feels sad.
